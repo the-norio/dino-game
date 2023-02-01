@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4678406300497863991}
   - component: {fileID: 759161878090676971}
   - component: {fileID: 2167556879245757911}
+  - component: {fileID: 4969340367805001253}
   m_Layer: 0
   m_Name: Cactus_Large_Doube
   m_TagString: Obstacle
@@ -98,3 +99,15 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.0416666, y: 1, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &4969340367805001253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4647234687575990233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68921ed814e33344db2ffbf422e3d131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
