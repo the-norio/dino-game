@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cceee39a1242a31459db3091812ca6c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gravity: 9.81
+  gravity: 19.62
   jumpForce: 8
 --- !u!114 &17829401
 MonoBehaviour:
@@ -556,3 +556,5 @@ MonoBehaviour:
     spawnChance: 0.1
   - prefab: {fileID: 4637454540493509993, guid: a7f39e67d76bca645813f32f7b7341bc, type: 3}
     spawnChance: 0.05
+  minSpawnRate: 1
+  maxSpawnRate: 2
